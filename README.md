@@ -1,10 +1,12 @@
 # Zelene
 
-[Website](https://zelene.org) - [Development portal](https://zelene.dev) - [GitHub organization](https://github.com/zelene-official)
+**Web application - Active development**
 
-Zelene is an emerging platform designed to help creators share content, build communities, and explore ways to monetize their work. Its proposed experience combines creator tools with Solana-based payment integrations where blockchain adds practical value.
+This repository contains the ongoing development of Zelene's web application. Work currently focuses on the authentication frontend and will expand to additional creator-platform features and integrations.
 
-**This repository documents the ongoing development of Zelene's web application.** Features are added progressively, with implementation details and status updated as the project advances. It is not limited to the sign-in page.
+For the broader project vision and documentation, visit the [official website](https://zelene.org) or explore the [Zelene GitHub organization](https://github.com/zelene-official).
+
+> **Development preview:** This is not a production-ready service. Some authentication and wallet interface elements are not connected to live services. Do not enter real credentials, recovery phrases, or sensitive information into unverified previews.
 
 ## Development status
 
@@ -27,24 +29,24 @@ This table describes the project at its current stage, not a committed release s
 
 ## Technology
 
-### Used in the current frontend
+### Current frontend
 
-- **React + TypeScript + Vite** for the web application
-- **CSS** for the current interface and responsive layouts
-- **i18next + react-i18next** for interface localization
-- **Browser APIs and HTTP requests** for authentication and wallet integration entry points
+- **React + TypeScript + Vite** — Web application
+- **CSS** — Responsive layouts and interface styling
+- **i18next + react-i18next** — Internationalization
+- **Browser APIs and HTTP requests** — Authentication and wallet integration entry points
 
-### Proposed platform architecture
+### Planned architecture
 
-The broader Zelene architecture is being developed and may evolve as requirements and testing progress:
+As Zelene evolves, the platform may incorporate additional technologies:
 
-- **Frontend UI:** Tailwind CSS and shadcn/ui, introduced as the application grows
-- **Backend:** NestJS + TypeScript, REST APIs
-- **Data and background processing:** PostgreSQL, Redis, BullMQ
-- **Media:** Cloudflare R2 and Cloudflare Stream
-- **Blockchain:** Solana integration; Rust + Anchor where smart contracts are needed
+- **Frontend UI:** Tailwind CSS, shadcn/ui
+- **Backend:** NestJS, TypeScript, REST APIs
+- **Database and background processing:** PostgreSQL, Redis, BullMQ
+- **Media infrastructure:** Cloudflare R2, Cloudflare Stream
+- **Blockchain:** Solana, Rust, Anchor (where smart contracts are needed)
 
-The proposed technologies above should **not** be interpreted as already implemented in this repository.
+These planned technologies are **not necessarily implemented** in this repository and may change as development progresses.
 
 ## Getting started
 
