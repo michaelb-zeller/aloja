@@ -1,10 +1,6 @@
 # Zelene
 
-**Creator platform · Web3 integrations · Built in public**
-
-[Website](https://zelene.org) · [Development portal](https://zelene.dev) · [GitHub organization](https://github.com/zelene-official)
-
-## About Zelene
+[Website](https://zelene.org) - [Development portal](https://zelene.dev) - [GitHub organization](https://github.com/zelene-official)
 
 Zelene is an emerging platform designed to help creators share content, build communities, and explore ways to monetize their work. Its proposed experience combines creator tools with Solana-based payment integrations where blockchain adds practical value.
 
