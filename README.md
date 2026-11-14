@@ -4,11 +4,6 @@
 
 [Website](https://zelene.org) · [Development portal](https://zelene.dev) · [GitHub organization](https://github.com/zelene-official)
 
-> [!IMPORTANT]
-> **Active development — not a production-ready service**
->
-> Zelene is being built incrementally. This repository will evolve from its initial authentication interface into a broader creator-platform frontend. Screens, provider buttons, wallet connections, and API entry points shown in development previews may not yet be connected to production services. Do not enter real credentials, wallet recovery phrases, or sensitive information into unverified previews.
-
 ## About Zelene
 
 Zelene is an emerging platform designed to help creators share content, build communities, and explore ways to monetize their work. Its proposed experience combines creator tools with Solana-based payment integrations where blockchain adds practical value.
@@ -153,4 +148,3 @@ For general information, visit [zelene.org](https://zelene.org). Development upd
 
 ---
 
-**Zelene — Create. Connect. Grow.**
